@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title=Mon projet</title>
+    </head>
+    <body bgcolor="lightblue">
+<font color="blue" size="6">
+<div align="center">
+<b>mon premier codage html</b>
+<br>
+<br>
+<font color="red" size="4">
+<p>Je m'appelle Larguier Justin 
+j'ai 16 ans et j'adore les mangas ! 
+<br>
+<br>
+<br>
+<br>
+<img src="http://www.gameuses.fr/wp-content/uploads/2013/08/one-piece-pirate-warriors-2-soluce.png"/></p>
+<br>
+<a href="p2.html">
+Pour aller à la page 2 c'est ici
+
+    </body>
+<html>
